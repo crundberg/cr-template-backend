@@ -1,0 +1,10 @@
+{
+	"all": false,
+	"exclude": [
+		"**/*.spec.js"
+	],
+	"reporter": [
+		"html",
+		"text"
+	]
+}
